@@ -1,9 +1,12 @@
 # WindowsTerminalQuakeAutostart
 My way to get Windows Terminal to start in Quake mode in the background on Windows startup/login.
 
-## Instalation
+##
 My default terminal profile is Powershell (Admin), which causes some problems for autorun.
 I'm using .bat file which opens Terminal minimalized "/min" in quake mode "-w _quake".
+
+## Instalation
+Create .bat file as example WTQ_bat.bat wherever you like.
 
 ### Create Windows Task
 
